@@ -1,162 +1,17 @@
 [
-        {
-		"type": "Legal",
-		"title": "Davis Police Department",
-		"notes": "The Davis Police Department in GTA V is a virtual law enforcement agency within the fictional city of Los Santos. It operates primarily in the Davis neighborhood, known for its high crime rates and gang activity. The department is depicted as struggling to maintain order in a challenging urban environment. Officers are seen patrolling the streets, responding to crimes, and occasionally engaging in pursuits. Despite their efforts, corruption and controversies plague the force, reflecting a gritty, realistic portrayal of inner-city policing. The Davis Police Department adds depth to the game's narrative, providing a nuanced view of law enforcement dynamics within the sprawling criminal underworld of GTA V.",
-		"order": 0,
-		"strokecolor": "0000FF",
-		"fillcolor": "0000FF",
-		"latlngarray": [
-			{"lat": -72.697, "lng": -4.669},
-			{"lat": -73.037, "lng": -3.350},
-			{"lat": -73.383, "lng": -4.229},
-			{"lat": -73.063, "lng": -5.625}
-		]
-	},
-	{
-		"type": "Legal",
-		"title": "Mission Row Police Department",
-		"notes": "The Mission Row Police Department in GTA V is a central hub for law enforcement in Los Santos. Nestled in the heart of the city, it serves as a pivotal base for officers combating crime in the metropolis. The facility boasts a realistic portrayal of police operations, featuring holding cells, briefing rooms, and a helipad. Officers from this precinct engage in various tasks, from routine patrols to high-stakes pursuits. The station is emblematic of the game's attention to detail, offering players an immersive experience of the inner workings of urban policing. It's a focal point where the battle between law and chaos unfolds in the game's dynamic narrative.",
-		"order": 0,
-		"strokecolor": "0000FF",
-		"fillcolor": "0000FF",
-		"latlngarray": [
-			{"lat": -66.514, "lng": -3.606},
-			{"lat": -66.487, "lng": -0.245},
-			{"lat": -67.793, "lng": -0.223},
-			{"lat": -67.880, "lng": -3.760}
-		]
-	},
-	{
-		"type": "Legal",
-		"title": "International Affairs Agency (IAA)",
-		"notes": "The International Affairs Agency (IAA) in GTA V is a clandestine intelligence organization operating within the fictional city of Los Santos. A counterpart to the game's FIB, it specializes in international espionage and counter-terrorism. The IAA is known for its covert operations, often involving high-stakes missions and intricate conspiracies. Agents are depicted as highly skilled and ruthless, playing a significant role in the game's overarching storyline. Their presence adds a layer of intrigue and complexity to the narrative, as players navigate the intricate web of government agencies, crime syndicates, and political machinations that define the GTA V universe.",
-		"order": 0,
-		"strokecolor": "0000FF",
-		"fillcolor": "0000FF",
-		"latlngarray": [
-			{"lat": -62.140, "lng": -11.622},
-			{"lat": -62.710, "lng": -8.370},
-			{"lat": -63.875, "lng": -9.315},
-			{"lat": -63.367, "lng": -12.501}
-		]
-	},
-	{
-		"type": "Legal",
-		"title": "Los Santos County Sheriff",
-		"notes": "The Los Santos County Sheriff's Department in GTA V is the primary rural law enforcement agency in the fictional state of San Andreas. Operating outside the city limits of Los Santos, it covers the vast countryside and smaller towns. The department is depicted as a more laid-back, traditional force compared to the urban police. Officers often handle a variety of tasks, from patrolling highways to dealing with local incidents. The Sheriff's Department provides a contrast to the intense, urban policing seen in the city, showcasing a different facet of law enforcement within the diverse landscape of GTA V's open world.",
-		"order": 0,
-		"strokecolor": "0000FF",
-		"fillcolor": "0000FF",
-		"latlngarray": [
-			{"lat": 73.721, "lng": -29.091},
-			{"lat": 73.628, "lng": -28.838},
-			{"lat": 73.454, "lng": -29.442},
-			{"lat": 73.221, "lng": -28.575},
-			{"lat": 73.385, "lng": -27.992},
-			{"lat": 73.173, "lng": -27.465},
-			{"lat": 73.675, "lng": -26.004},
-			{"lat": 74.188, "lng": -27.355}
-		]
-	},
-	{
-		"type": "Legal",
-		"title": "Del Perro Police Department",
-		"notes": "In GTA V, the Del Perro Police Department is a key law enforcement agency situated in the upscale Del Perro district of Los Santos. This precinct caters to a more affluent demographic, reflecting a different policing dynamic compared to other areas. Officers here are tasked with maintaining order in a bustling, commercial district known for its high-end shops and luxury real estate. The department boasts a modern facility, embodying a more polished image of law enforcement. Patrolling the vibrant streets of Del Perro, they encounter a unique set of challenges, offering players a diverse glimpse into the multifaceted world of policing within the GTA V universe.",
-		"order": 0,
-		"strokecolor": "0000FF",
-		"fillcolor": "0000FF",
-		"latlngarray": [
-			{"lat": -67.439, "lng": -62.482},
-			{"lat": -67.249, "lng": -62.065},
-			{"lat": -67.461, "lng": -61.482},
-			{"lat": -67.620, "lng": -61.933}
-		]
-	},
 	{
 		"type": "Medical",
-		"title": "St Fiacre Hospital for East Los Santos",
-		"notes": "St. Fiacre Hospital, located in East Los Santos, is a vital healthcare institution serving the local community. This medical center offers comprehensive healthcare services, including emergency care, diagnostics, surgeries, and outpatient treatments. With a commitment to quality patient care, St. Fiacre Hospital is known for its dedicated medical staff and state-of-the-art facilities. It plays a crucial role in ensuring the well-being of residents in East Los Santos, providing accessible and reliable healthcare services to those in need.",
+		"title": "Mount Zonah Pillbox",
+		"notes": "Main City Pillbox",
 		"order": 0,
-		"strokecolor": "72cc72",
-		"fillcolor": "ed8ba0",
+		"strokecolor": "6BFF33",
+		"fillcolor": "6BFF33",
 		"latlngarray": [
-			{"lat": -71.486, "lng": 16.880},
-			{"lat": -72.698, "lng": 16.847},
-			{"lat": -73.251, "lng": 17.210},
-			{"lat": -73.076, "lng": 18.902},
-			{"lat": -72.688, "lng": 20.627},
-			{"lat": -72.428, "lng": 21.912},
-			{"lat": -71.468, "lng": 20.890}
-		]
-	},
-	{
-		"type": "Medical",
-		"title": "Sandy Shores Medical Center",
-		"notes": "Sandy Shores Medical Center, situated in the rural community of Sandy Shores within Blaine County, is a primary healthcare facility. While smaller than urban hospitals, it offers essential medical services, including basic emergency care, routine check-ups, and limited specialized treatments. Serving the local population and catering to the unique healthcare needs of the rural area, Sandy Shores Medical Center is a vital resource. Its dedicated staff strives to provide quality medical assistance and maintain the health and well-being of residents in this more remote part of Los Santos.",
-		"order": 0,
-		"strokecolor": "72cc72",
-		"fillcolor": "ed8ba0",
-		"latlngarray": [
-			{"lat": 40.252, "lng": 36.549},
-			{"lat": 41.243, "lng": 38.889},
-			{"lat": 40.152, "lng": 39.658},
-			{"lat": 39.171, "lng": 37.395}
-		]
-	},
-	{
-		"type": "Medical",
-		"title": "The Bay Care Center Paleto Bay",
-		"notes": "The Bay Care Center in Paleto Bay is a crucial healthcare facility serving the rural community of Paleto Bay in Blaine County. Despite its smaller size compared to city hospitals, it provides essential medical services, including emergency care, primary care, and limited specialized treatments. The center plays a vital role in ensuring the health and well-being of the local population, offering accessible healthcare in a more remote area. With a dedicated staff, The Bay Care Center in Paleto Bay provides essential medical support to the residents of this picturesque but less urbanized region.",
-		"order": 0,
-		"strokecolor": "72cc72",
-		"fillcolor": "ed8ba0",
-		"latlngarray": [
-			{"lat": 76.234, "lng": -22.150},
-			{"lat": 75.973, "lng": -20.953},
-			{"lat": 75.745, "lng": -21.920},
-			{"lat": 76.036, "lng": -23.018}
-		]
-	},
-	{
-		"type": "Medical",
-		"title": "Sandy Shores Fire Department",
-		"notes": "The Sandy Shores Fire Department is a critical emergency response agency located in the rural community of Sandy Shores, within Blaine County. This department is dedicated to ensuring the safety and protection of the local population. Their responsibilities include firefighting, emergency medical services, and disaster response. While serving a smaller, rural area, the Sandy Shores Fire Department plays a vital role in safeguarding the community from various emergencies, ranging from fires to medical crises. Their skilled personnel and equipment are indispensable in maintaining safety and well-being in this remote region of Los Santos.",
-		"order": 0,
-		"strokecolor": "0000FF",
-		"fillcolor": "f20000",
-		"latlngarray": [
-			{"lat": 38.301, "lng": 32.923},
-			{"lat": 37.390, "lng": 33.571},
-			{"lat": 38.154, "lng": 35.208},
-			{"lat": 39.030, "lng": 34.549}
-		]
-	},
-	{
-		"type": "Legal",
-		"title": "N.O.O.S.E",
-		"notes": "The National Office of Security Enforcement (N.O.O.S.E) in GTA V is a fictionalized rendition of real-world special operations units like the U.S. SWAT teams and the British SAS. This elite paramilitary force operates within the game's city of Los Santos. Renowned for their tactical expertise, N.O.O.S.E is called upon for high-risk situations, including hostage rescues and counter-terrorism operations. Their distinctive black uniforms and heavily armored vehicles make them a formidable presence in the game. N.O.O.S.E's appearance signals a serious escalation in the narrative, showcasing the government's response to extreme threats and adding an intense, action-packed dimension to GTA V's missions.",
-		"order": 0,
-		"strokecolor": "0000FF",
-		"fillcolor": "0000FF",
-		"latlngarray": [
-			{"lat": -56.529, "lng": 55.964},
-			{"lat": -57.427, "lng": 60.029},
-			{"lat": -57.403, "lng": 60.446},
-			{"lat": -60.234, "lng": 60.512},
-			{"lat": -61.275, "lng": 61.150},
-			{"lat": -61.737, "lng": 60.996},
-			{"lat": -62.191, "lng": 60.315},
-			{"lat": -62.395, "lng": 59.568},
-			{"lat": -62.466, "lng": 58.908},
-			{"lat": -61.965, "lng": 58.733},
-			{"lat": -61.402, "lng": 57.832},
-			{"lat": -60.829, "lng": 56.557},
-			{"lat": -60.256, "lng": 55.327},
-			{"lat": -59.540, "lng": 54.118},
-			{"lat": -58.831, "lng": 54.162},
-			{"lat": -57.815, "lng": 54.909},
-			{"lat": -56.903, "lng": 55.613}
+			{"lat": -57.729, "lng": -31.110},
+			{"lat": -56.946, "lng": -27.924},
+			{"lat": -57.834, "lng": -26.650},
+			{"lat": -59.424, "lng": -27.177},
+			{"lat": -59.256, "lng": -30.385}
 		]
 	}
 ]
