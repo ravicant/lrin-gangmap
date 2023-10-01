@@ -1,1 +1,18 @@
-[]
+[
+	{
+		"type": "Medical",
+		"title": "Mount Zonah Pillbox",
+		"notes": "Main City Pillbox",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "6BFF33",
+		"fillcolor": "6BFF33",
+		"latlngarray": [
+			{"lat": -57.729, "lng": -31.110},
+			{"lat": -56.946, "lng": -27.924},
+			{"lat": -57.834, "lng": -26.650},
+			{"lat": -59.424, "lng": -27.177},
+			{"lat": -59.256, "lng": -30.385}
+		]
+	}
+]
